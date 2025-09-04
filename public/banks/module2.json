@@ -1,0 +1,49 @@
+[
+  {
+    "id": "m1-001",
+    "module": "m1",
+    "subject": "genchem",
+    "question": "Avogadro's number is approximately…",
+    "options": ["3.14×10^8", "6.022×10^23", "9.81 m/s^2", "1.60×10^-19 C"],
+    "answerIndex": 1,
+    "explanation": "Particles per mole."
+  },
+  {
+    "id": "m1-002",
+    "module": "m1",
+    "subject": "inorg",
+    "question": "The oxidation state of Na in NaCl is…",
+    "options": ["0", "+1", "-1", "+2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-003",
+    "module": "m1",
+    "subject": "org",
+    "question": "Benzene has how many π electrons?",
+    "options": ["2", "4", "6", "8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-004",
+    "module": "m1",
+    "subject": "medorg",
+    "question": "Prodrug is best described as…",
+    "options": [
+      "Inactive compound converted to active form",
+      "Active compound converted to inactive form",
+      "A racemic mixture",
+      "A salt form"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-005",
+    "module": "m1",
+    "subject": "genchem",
+    "question": "pH of 1×10^-3 M HCl is ~",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 2,
+    "explanation": "Strong acid: pH≈3."
+  }
+]
