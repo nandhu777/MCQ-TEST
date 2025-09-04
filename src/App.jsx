@@ -9,7 +9,7 @@ import Home from "./pages/Home";
 import ModulesPage from "./pages/Modules";
 import TestPage from "./pages/Test";
 import ResultsPage from "./pages/Results";
-import { computeStats } from "./utils/stats";
+import { computeStats } from "./utils/Stat";
 
 export default function App() {
   // simple router: home → modules → test(moduleId) → results
