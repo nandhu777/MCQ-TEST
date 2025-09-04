@@ -2,7 +2,7 @@ import React from "react";
 import { styles } from "../styles/theme";
 import Stat from "../components/Stat";
 import { pct } from "../utils/Stats";
-import { Downloadcsv } from "../utils/downloadCSV";
+import { Downloadcsv } from "../utils/downCSV";
 import { Downloadpdf } from "../utils/Downloadpdf";
 
 export default function ResultsPage({
