@@ -47,3 +47,70 @@
 .read-the-docs {
   color: #888;
 }
+.test-wrap {
+  /* inline grid is already set as a fallback; this just keeps it */
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 18px;
+  align-items: start;
+}
+.palette-col {
+  min-width: 0;
+}
+.qa-col {
+  min-width: 0;
+}
+
+@media (max-width: 1024px) {
+  .test-wrap {
+    display: block !important; /* stack */
+  }
+  .palette-col {
+    margin-bottom: 14px;
+  }
+}
+
+/* --- Palette density: 6 cols desktop, 5 cols mobile (used below via CSS var) --- */
+:root {
+  --palette-cols: 6;
+}
+@media (max-width: 1024px) {
+  :root {
+    --palette-cols: 5;
+  }
+}
+/* Desktop: two columns (palette | question) */
+.twoColTest {
+  --cols: 360px minmax(0, 1fr);
+  align-items: start;
+}
+
+/* Prevent the question panel from overflowing */
+.pane-right {
+  min-width: 0;
+}
+.pane-left {
+  min-width: 0;
+}
+
+/* Mobile: stack — palette first, then question */
+@media (max-width: 900px) {
+  .twoColTest {
+    --cols: 1fr;
+    gap: 14px;
+  }
+  .pane-left {
+    order: 1;
+  }
+  .pane-right {
+    order: 2;
+  }
+}
+:root {
+  --palette-cols: 6;
+}
+@media (max-width: 900px) {
+  :root {
+    --palette-cols: 5;
+  }
+}

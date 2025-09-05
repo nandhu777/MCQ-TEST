@@ -19,12 +19,14 @@ export const styles = {
     fontFamily:
       "Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto",
   },
+
   testWrap: {
     display: "grid",
-    gridTemplateColumns: "240px 1fr", // was 220px
-    gap: 24, // was 16
+    gridTemplateColumns: "340px 1fr", // wider left rail
+    gap: 24,
+    width: "100%",
+    alignItems: "start",
   },
-
   // Keep sticky & gently pull the palette slightly toward the page edge
   sidebar: {
     position: "sticky",
@@ -77,93 +79,89 @@ export const styles = {
     marginLeft: 0, // no negative nudge now
   },
 
-  // Just a box—no internal scrollbars
-  paletteBox: {
-    background: "#ffffffcc",
-    border: "1px solid #e2e8f0",
-    borderRadius: 12,
-    padding: 12,
-    boxShadow: "0 8px 24px rgba(0,0,0,.04)",
-    overflow: "visible", // remove auto scroll
+  legendItem: { display: "inline-flex", alignItems: "center", gap: 6 },
+  legendDot: {
+    width: 10,
+    height: 10,
+    borderRadius: 9999,
+    display: "inline-block",
+  },
+  countRow: { display: "flex", gap: 8, color: "#475569", fontSize: 12 },
+  legendRow: {
+    display: "flex",
+    gap: 12,
+    alignItems: "center",
+    color: "#64748b",
+    fontSize: 12,
+  },
+  legendItem: { display: "inline-flex", alignItems: "center", gap: 6 },
+  legendDot: {
+    width: 10,
+    height: 10,
+    borderRadius: 9999,
+    display: "inline-block",
+  },
+  countRow: { display: "flex", gap: 8, color: "#475569", fontSize: 12 },
+
+  paletteRow: {
+    marginBottom: 16,
   },
 
-  // Exactly 5 columns; fixed cell width so it never overflows
+  paletteCard: {
+    background: "#ffffff",
+    border: "1px solid #e2e8f0",
+    borderRadius: 16,
+    padding: 14,
+    boxShadow: "0 6px 18px rgba(0,0,0,.06)",
+    maxWidth: 760, // nice wide box; increase if you want
+  },
+
+  paletteHeader: {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    marginBottom: 8,
+  },
+
+  legend: {
+    display: "flex",
+    alignItems: "center",
+    gap: 12,
+    color: "#64748b",
+    fontSize: 13,
+  },
+
+  dotAnswer: {
+    display: "inline-block",
+    width: 8,
+    height: 8,
+    borderRadius: 999,
+    background: "#86efac",
+    boxShadow: "inset 0 0 0 1px #22c55e80",
+    marginRight: 6,
+  },
+  dotUnanswer: {
+    display: "inline-block",
+    width: 8,
+    height: 8,
+    borderRadius: 999,
+    background: "#e2e8f0",
+    boxShadow: "inset 0 0 0 1px #94a3b880",
+    marginRight: 6,
+  },
+
   paletteGrid: {
     display: "grid",
-    gridTemplateColumns: "repeat(5, 44px)", // 5 fixed columns
+    gridTemplateColumns: "repeat(6, 1fr)", // 6 per row on desktop
     gap: 8,
-    justifyContent: "start",
   },
 
-  // Buttons sized to the grid tracks
   paletteBtn: {
-    width: 44,
+    display: "inline-flex",
+    alignItems: "center",
+    justifyContent: "center",
     height: 36,
-    borderRadius: 10,
-    border: "1px solid #e2e8f0",
-    background: "#f8fafc",
-    color: "#334155",
-    fontWeight: 700,
-    fontSize: 14,
-    lineHeight: 1,
-    display: "inline-flex",
-    alignItems: "center",
-    justifyContent: "center",
-    cursor: "pointer",
-    userSelect: "none",
-  },
-  paletteBtnAnswered: {
-    background: "#e8efe7",
-    border: "1px solid #8aa17d",
-    color: "#1f2937",
-  },
-  paletteBtnCurrent: {
-    outline: "2px solid #8aa17d",
-    outlineOffset: 1,
-  },
-
-  paletteHead: { display: "grid", gap: 6, marginBottom: 8 },
-  legendRow: {
-    display: "flex",
-    gap: 12,
-    alignItems: "center",
-    color: "#64748b",
-    fontSize: 12,
-  },
-  legendItem: { display: "inline-flex", alignItems: "center", gap: 6 },
-  legendDot: {
-    width: 10,
-    height: 10,
-    borderRadius: 9999,
-    display: "inline-block",
-  },
-  countRow: { display: "flex", gap: 8, color: "#475569", fontSize: 12 },
-  legendRow: {
-    display: "flex",
-    gap: 12,
-    alignItems: "center",
-    color: "#64748b",
-    fontSize: 12,
-  },
-  legendItem: { display: "inline-flex", alignItems: "center", gap: 6 },
-  legendDot: {
-    width: 10,
-    height: 10,
-    borderRadius: 9999,
-    display: "inline-block",
-  },
-  countRow: { display: "flex", gap: 8, color: "#475569", fontSize: 12 },
-
-  paletteGrid: {
-    display: "grid",
-    gridTemplateColumns: "repeat(5, 1fr)", // 5 per row; change to 6/8 if you like
-    gap: 1,
-  },
-  paletteBtn: {
-    display: "inline-flex",
-    alignItems: "center",
-    justifyContent: "center",
-    height: 34,
+    minWidth: 36,
     borderRadius: 10,
     border: "1px solid #e2e8f0",
     background: "#f8fafc",
@@ -173,7 +171,7 @@ export const styles = {
     userSelect: "none",
   },
   paletteBtnAnswered: {
-    background: "#e8efe7",
+    background: "#e8f7ea",
     border: "1px solid #8aa17d",
     color: "#1f2937",
   },

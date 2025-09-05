@@ -2,95 +2,492 @@
   {
     "id": "m1-001",
     "module": "m1",
-    "subject": "genchem",
-    "question": "Avogadro's number is approximately…",
-    "options": ["3.14×10^8", "6.022×10^23", "9.81 m/s^2", "1.60×10^-19 C"],
-    "answerIndex": 1,
-    "explanation": "Particles per mole."
+    "subject": "inorganic",
+    "question": "The following are elements that form basic anhydrides except:",
+    "options": ["Ca", "Na", "Mg", "S"],
+    "answerIndex": 3
   },
   {
     "id": "m1-002",
     "module": "m1",
-    "subject": "inorg",
-    "question": "The oxidation state of Na in NaCl is…",
-    "options": ["0", "+1", "-1", "+2"],
+    "subject": "inorganic",
+    "question": "It gives the spatial orientation of the electron cloud with respect to the three areas in space.",
+    "options": [
+      "Spin quantum number",
+      "Magnetic quantum number",
+      "Principal quantum number",
+      "Azimuthal quantum number"
+    ],
     "answerIndex": 1
   },
   {
     "id": "m1-003",
     "module": "m1",
-    "subject": "org",
-    "question": "Benzene has how many π electrons?",
-    "options": ["2", "4", "6", "8"],
-    "answerIndex": 2
+    "subject": "inorganic",
+    "question": "Epsom salt is synonymous with:",
+    "options": [
+      "Magnesium sulfate",
+      "Calcium sulfate",
+      "Barium sulfate",
+      "Zinc sulfate"
+    ],
+    "answerIndex": 0
   },
   {
     "id": "m1-004",
     "module": "m1",
-    "subject": "medorg",
-    "question": "Prodrug is best described as…",
-    "options": [
-      "Inactive compound converted to active form",
-      "Active compound converted to inactive form",
-      "A racemic mixture",
-      "A salt form"
-    ],
+    "subject": "inorganic",
+    "question": "He developed a table of atomic weights and introduced letters to symbolize elements.",
+    "options": ["Berzelius", "Dobereiner", "Moseley", "Mendeleev"],
     "answerIndex": 0
   },
   {
     "id": "m1-005",
     "module": "m1",
-    "subject": "genchem",
-    "question": "pH of 1×10^-3 M HCl is ~",
-    "options": ["1", "2", "3", "4"],
-    "answerIndex": 2,
-    "explanation": "Strong acid: pH≈3."
+    "subject": "inorganic",
+    "question": "Different nuclides having the same number of neutrons but a different number of protons:",
+    "options": ["Isobars", "Isotopes", "Isotones", "Isomer"],
+    "answerIndex": 2
   },
   {
-    "id": "m1-001",
+    "id": "m1-006",
     "module": "m1",
-    "subject": "genchem",
-    "question": "Avogadro's number is approximately…",
-    "options": ["3.14×10^8", "6.022×10^23", "9.81 m/s^2", "1.60×10^-19 C"],
-    "answerIndex": 1,
-    "explanation": "Particles per mole."
-  },
-  {
-    "id": "m1-002",
-    "module": "m1",
-    "subject": "inorg",
-    "question": "The oxidation state of Na in NaCl is…",
-    "options": ["0", "+1", "-1", "+2"],
+    "subject": "inorganic",
+    "question": "The addition of a hydrogen molecule to an alkene is catalyzed by what metal?",
+    "options": ["Silver", "Palladium", "Beryllium", "Osmium"],
     "answerIndex": 1
   },
   {
-    "id": "m1-003",
+    "id": "m1-007",
     "module": "m1",
-    "subject": "org",
-    "question": "Benzene has how many π electrons?",
-    "options": ["2", "4", "6", "8"],
+    "subject": "inorganic",
+    "question": "Among the halogens, which element is the most metallic?",
+    "options": ["Chlorine", "Bromine", "Iodine", "Astatine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-008",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "The reagent that will precipitate out Group 1 cations:",
+    "options": [
+      "Hydrogen sulfide",
+      "Dilute hydrochloric acid",
+      "Ammonium sulfide",
+      "Sodium biphosphate"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-009",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Ammoniated mercury is also?",
+    "options": [
+      "Calomel",
+      "Corrosive sublimate",
+      "Lunar caustic",
+      "White precipitate"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-010",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Salmon pink sulfide",
+    "options": ["CdS", "ZnS", "MnS", "Sb2S3"],
     "answerIndex": 2
   },
   {
-    "id": "m1-004",
+    "id": "m1-011",
     "module": "m1",
-    "subject": "medorg",
-    "question": "Prodrug is best described as…",
+    "subject": "inorganic",
+    "question": "Mixture of potassium polysulfide and potassium thiosulfate",
     "options": [
-      "Inactive compound converted to active form",
-      "Active compound converted to inactive form",
-      "A racemic mixture",
-      "A salt form"
+      "Precipitated sulfur",
+      "Sulfurated potash",
+      "Sublimed sulfur",
+      "Washed sulfur"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-012",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "First artificial element",
+    "options": ["Ta", "Tc", "Os", "W"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-013",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Added to glass to improve the coefficient of expansion",
+    "options": ["MnO2", "Pb", "K", "B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-014",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Component of Bordeaux mixture",
+    "options": [
+      "Selenium sulfide",
+      "Cadmium sulfide",
+      "Magnesium sulfate",
+      "Cupric sulfate"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-015",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Metal ion that produces a Prussian blue precipitate with potassium ferrocyanide",
+    "options": ["Ferrous", "Ferric", "Cobalt", "Nickel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-016",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Used as CO2 absorber in oxygen therapy",
+    "options": [
+      "Ammonium carbonate",
+      "Potassium iodide",
+      "Barium hydroxide",
+      "Soda lime"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-017",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Slaked lime",
+    "options": ["CaO", "CaSO4", "CaCO3", "Ca(OH)2"],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-018",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Calcium compound purified via elutriation",
+    "options": ["Prepared chalk", "Precipitated chalk", "Lime", "Gypsum"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-019",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Zinc deficiency characterized by thickened scaly inflamed skin is known as",
+    "options": [
+      "Shaver’s disease",
+      "Parakeratosis",
+      "Minamata disease",
+      "Mad hatter disease"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-020",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "The ionization constant of the strongest acid is",
+    "options": [
+      "HA Ka = 7.2 × 10^-4",
+      "HB Ka = 8.5 × 10^-8",
+      "HC Ka = 7.5 × 10^-5",
+      "HD Ka = 6.5 × 10^-10"
     ],
     "answerIndex": 0
   },
   {
-    "id": "m1-005",
+    "id": "m1-021",
     "module": "m1",
-    "subject": "genchem",
-    "question": "pH of 1×10^-3 M HCl is ~",
-    "options": ["1", "2", "3", "4"],
-    "answerIndex": 2,
-    "explanation": "Strong acid: pH≈3."
+    "subject": "inorganic",
+    "question": "Prolonged use of silver nitrate may lead to this undesirable discoloration of the skin",
+    "options": ["Argyria", "Silverism", "Wilson’s disease", "Hydrargyrism"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-022",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Nessler’s reagent is used to identify",
+    "options": ["K+", "NH4+", "Na+", "Al3+"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-023",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Anode is an electrode",
+    "options": [
+      "Where oxidation takes place",
+      "Where reduction takes place",
+      "Where displacement takes place",
+      "Where addition takes place"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-024",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "The rate of decay of radioactive substance is expressed in terms of:",
+    "options": ["half-life", "angstrom", "curie", "amu"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-025",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Which mineral is important in the antioxidant capabilities of vitamin E?",
+    "options": ["iron", "selenium", "zinc", "chromium"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-026",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Hyperphosphatemia may be found in",
+    "options": [
+      "hypoparathyroidism",
+      "rickets",
+      "hyperparathyroidism",
+      "all of the above"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-027",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "The color of the flame produced by lithium",
+    "options": ["violet", "crimson red", "intense yellow", "brick red"],
+    "answerIndex": 1
+  },
+  {
+    "id": "m1-028",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "This formula can be determined given the percent composition by mass of the compound",
+    "options": [
+      "molecular formula",
+      "structural formula",
+      "empirical formula",
+      "electronic formula"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-029",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Constituents of Ladd’s paste, except:",
+    "options": [
+      "aluminum powder",
+      "silver nitrate",
+      "liquid petrolatum",
+      "zinc oxide",
+      "none of the above"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "m1-030",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Compound primarily used in the preparation of Vleminck’s solution",
+    "options": [
+      "sublimed sulfur",
+      "lithium carbonate",
+      "milk of sulfur",
+      "zinc oxide"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-031",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "It contains iron in solution or suspension and has a ferruginous taste.",
+    "options": [
+      "carbonated water",
+      "Lithia water",
+      "chalybeate water",
+      "saline water"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-032",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Disease found in Japan caused by cadmium-contaminated water:",
+    "options": [
+      "Minamata disease",
+      "Addison’s disease",
+      "Itai-itai disease",
+      "Crohn’s disease"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-033",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Calculate the pH of 0.08 F HCN; Ka = 7.2 × 10^-10",
+    "options": ["5.12", "7.26", "6.00", "7.60"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-034",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Shrinkage between alcohol and water is primarily due to",
+    "options": [
+      "van der Waals forces",
+      "ionic bonding",
+      "covalent bonding",
+      "hydrogen bonding"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-035",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Which glass type does not contain soda lime?",
+    "options": ["Type I", "Type II", "Type III", "Type IV or NP"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-036",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Which of the following may not be useful in predicting solubility?",
+    "options": [
+      "pH of solution",
+      "solubility parameters",
+      "dielectric constants",
+      "valence of the chemical",
+      "pKa of the chemical"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-037",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Equal to the product of ionic concentrations (each to the power of its stoichiometric coefficient):",
+    "options": ["Ksp", "Ki", "Ke", "Kw", "any of the above"],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-038",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Property that does NOT belong to soft bases:",
+    "options": [
+      "low electronegativity",
+      "high polarizability",
+      "have empty low-lying orbitals",
+      "easily oxidized",
+      "none of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-039",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "If [H+] = 1×10^-4 mol/L, [OH-] is:",
+    "options": [
+      "1×10^-14 mol/L",
+      "1×10^-6 mol/L",
+      "1×10^-4 mol/L",
+      "1×10^-10 mol/L",
+      "1×10^-11 mol/L"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-040",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Elements found as diatomic molecules include all EXCEPT:",
+    "options": ["oxygen", "iodine", "fluorine", "hydrogen", "potassium"],
+    "answerIndex": 4
+  },
+  {
+    "id": "m1-041",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "The method of preparation must be indicated on labels for:",
+    "options": [
+      "Bacteriostatic water for injection, USP",
+      "Sterile water for injection, USP",
+      "Purified water, USP",
+      "Water for injection USP"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "m1-042",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "If the ion product is less than Ksp, the solution is:",
+    "options": [
+      "saturated",
+      "concentrated",
+      "unsaturated",
+      "diluted",
+      "supersaturated"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-043",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Defoming agent added to some antacids to prevent flatulence:",
+    "options": [
+      "simethicone",
+      "magaldrate",
+      "alginic acid",
+      "sodium bicarbonate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "m1-044",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Antacid with rapid onset, short duration; can cause belching/flatulence:",
+    "options": [
+      "magnesium hydroxide",
+      "aluminum hydroxide",
+      "sodium bicarbonate",
+      "calcium phosphate"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "m1-045",
+    "module": "m1",
+    "subject": "inorganic",
+    "question": "Antimicrobial used in the preparation of white lotion:",
+    "options": [
+      "ammoniated mercury",
+      "sulfurated potash",
+      "sublimed sulfur",
+      "selenium sulfide",
+      "precipitated sulfur"
+    ],
+    "answerIndex": 1
   }
 ]
