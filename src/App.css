@@ -92,6 +92,57 @@
 .pane-left {
   min-width: 0;
 }
+/* ===== PDF / print layout ===== */
+.pdf-container {
+  /* A4 printable width in points: 595pt. Leave margins in jsPDF. */
+  max-width: 800px; /* good for screen; html2pdf scales anyway */
+  margin: 0 auto;
+}
+
+.pdf-card {
+  break-inside: avoid; /* modern */
+  page-break-inside: avoid; /* legacy */
+  background: #fff !important;
+  border: 1px solid #e5e7eb !important;
+  border-radius: 10px !important;
+  margin: 10pt 0 !important;
+  padding: 10pt !important;
+
+  /* Remove effects that confuse html2canvas/print layout */
+  box-shadow: none !important;
+  filter: none !important;
+  transform: none !important;
+}
+
+/* stronger status colors (matches your on-screen palette) */
+.pdf-card.correct {
+  border-color: #86efac !important;
+  background: #ecfdf5 !important;
+}
+.pdf-card.wrong {
+  border-color: #fca5a5 !important;
+  background: #fef2f2 !important;
+}
+.pdf-card.skipped {
+  border-color: #cbd5e1 !important;
+  background: #f3f4f6 !important;
+}
+
+/* Force a manual page break when needed */
+.pdf-break {
+  break-after: page; /* modern */
+  page-break-after: always; /* legacy */
+}
+
+@media print {
+  /* ensure rows never stack weirdly in print */
+  .pdf-container {
+    max-width: 100% !important;
+  }
+  .result-card {
+    box-shadow: none !important;
+  }
+}
 
 /* Mobile: stack — palette first, then question */
 @media (max-width: 900px) {

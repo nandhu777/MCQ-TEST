@@ -19,7 +19,77 @@ export const styles = {
     fontFamily:
       "Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto",
   },
+  opt: {
+    display: "grid",
+    gridTemplateColumns: "24px 1fr",
+    alignItems: "center",
+    gap: 10,
+    padding: "12px 14px",
+    borderRadius: 12,
+    border: "1px solid #e2e8f0",
+    background: "#fff",
+    color: "#0f172a",
+    cursor: "pointer",
+  },
+  resultRow: {
+    padding: 14,
+    borderRadius: 12,
+    border: "1px solid #e5e7eb",
+    background: "#ffffff",
+    marginBottom: 10,
+    position: "relative",
+  },
 
+  // CORRECT  – bright, friendly green
+  resultCorrect: {
+    border: "1px solid #86efac",
+    background: "#ecfdf5",
+    color: "#14532d",
+    boxShadow: "inset 4px 0 0 0 #22c55e",
+  },
+
+  // WRONG – strong red but readable
+  resultWrong: {
+    border: "1px solid #fca5a5",
+    background: "#fef2f2",
+    color: "#7f1d1d",
+    boxShadow: "inset 4px 0 0 0 #ef4444",
+  },
+
+  // SKIPPED – neutral gray (no yellow)
+  resultSkipped: {
+    border: "1px solid #cbd5e1",
+    background: "#f3f4f6",
+    color: "#374151",
+    boxShadow: "inset 4px 0 0 0 #94a3b8",
+  },
+
+  // Small “×/✓/–” badge on the right (optional)
+  resultBadge: {
+    position: "absolute",
+    right: 12,
+    top: 10,
+    fontWeight: 700,
+    opacity: 0.75,
+  },
+
+  // brighter green highlight for selected option
+  optActive: {
+    border: "2px solid #22c55e", // bright green
+    background: "#dcfce7", // lighter green fill
+    boxShadow: "0 0 0 2px rgba(34,197,94,.15) inset",
+  },
+
+  // radio look
+  radio: {
+    width: 18,
+    height: 18,
+    accentColor: "#22c55e", // bright green dot when checked
+    backgroundColor: "#ffffff", // default white
+    // (optional) make the ring a hair darker
+    // outline: "1px solid #cbd5e1",
+    // borderRadius: "50%",
+  },
   testWrap: {
     display: "grid",
     gridTemplateColumns: "340px 1fr", // wider left rail
@@ -393,8 +463,8 @@ export const styles = {
     padding: 12,
     borderRadius: 12,
     background: "#fff7ed",
-    color: "#b45309",
-    border: "1px solid #fed7aa",
+    color: "grey",
+    border: "1px solid #grey",
   },
 };
 

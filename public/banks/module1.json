@@ -489,5 +489,1765 @@
       "precipitated sulfur"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": "org-001",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which type of bond is strongest in organic molecules?",
+    "options": [
+      "C–C single bond",
+      "C=C double bond",
+      "C≡C triple bond",
+      "C–H bond"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-002",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which hybridization corresponds to methane (CH4)?",
+    "options": ["sp", "sp2", "sp3", "dsp3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-003",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are aromatic compounds EXCEPT:",
+    "options": ["Benzene", "Naphthalene", "Anthracene", "Cyclooctatetraene"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-004",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which rule defines aromaticity?",
+    "options": [
+      "Hund’s rule",
+      "Huckel’s rule",
+      "Aufbau principle",
+      "Pauli exclusion principle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-005",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which functional group is present in aldehydes?",
+    "options": ["–OH", "–COOH", "–CHO", "–COOR"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-006",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which functional group is present in esters?",
+    "options": ["–OH", "–COOH", "–COOR", "–NH2"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-007",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which alcohol is tertiary?",
+    "options": ["Methanol", "1-Propanol", "2-Propanol", "tert-Butanol"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-008",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which type of isomerism is shown by CH3OCH3 and C2H5OH?",
+    "options": [
+      "Structural isomerism",
+      "Geometrical",
+      "Optical",
+      "Conformational"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-009",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which of the following is a nucleophile?",
+    "options": ["BF3", "H+", "NH3", "AlCl3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-010",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are electrophiles EXCEPT:",
+    "options": ["H+", "BF3", "NH3", "AlCl3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-011",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent converts alkenes to diols?",
+    "options": ["KMnO4", "H2/Pt", "HBr", "SOCl2"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-012",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent converts alcohols to alkyl halides?",
+    "options": ["SOCl2", "H2SO4", "NaOH", "NaBH4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-013",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent reduces aldehydes to primary alcohols?",
+    "options": ["H2SO4", "NaBH4", "KMnO4", "SOCl2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-014",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent reduces esters to alcohols?",
+    "options": ["NaBH4", "LiAlH4", "PCC", "HNO3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-015",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are oxidizing agents EXCEPT:",
+    "options": ["PCC", "KMnO4", "CrO3", "NaBH4"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-016",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent converts alcohols to aldehydes?",
+    "options": ["PCC", "KMnO4", "LiAlH4", "H2/Pt"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-017",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent is used in bromination of benzene?",
+    "options": ["Br2/FeBr3", "HBr", "Br2/H2O", "NaBr"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-018",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reaction mechanism occurs in hydrolysis of tert-butyl halide?",
+    "options": ["SN1", "SN2", "E1", "E2"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-019",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reaction mechanism occurs in hydrolysis of methyl halide?",
+    "options": ["SN1", "SN2", "E1", "Free radical"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-020",
+    "module": "org",
+    "subject": "organic",
+    "question": "All favor SN1 mechanism EXCEPT:",
+    "options": [
+      "Tertiary halides",
+      "Polar protic solvents",
+      "Primary halides",
+      "Stable carbocations"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-021",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which molecule shows cis-trans isomerism?",
+    "options": ["CH4", "C2H2", "C2H4", "2-Butene"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-022",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which carbon is chiral?",
+    "options": [
+      "Carbon bonded to four different groups",
+      "Carbon bonded to three different groups",
+      "Carbon bonded to double bond",
+      "Carbon bonded to identical atoms"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-023",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which compound rotates plane-polarized light?",
+    "options": [
+      "Achiral",
+      "Racemic mixture",
+      "Chiral compound",
+      "Aromatic compound"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-024",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are stereoisomers EXCEPT:",
+    "options": [
+      "Enantiomers",
+      "Diastereomers",
+      "Conformers",
+      "Structural isomers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-025",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which notation denotes configuration at chiral center?",
+    "options": ["cis/trans", "R/S", "E/Z", "n/m"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-026",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reaction converts benzene to nitrobenzene?",
+    "options": ["Nitration", "Sulfonation", "Halogenation", "Friedel-Crafts"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-027",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which catalyst is used in Friedel-Crafts alkylation?",
+    "options": ["H2SO4", "AlCl3", "KMnO4", "FeCl3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-028",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent reduces nitrobenzene to aniline?",
+    "options": ["Sn/HCl", "KMnO4", "PCC", "LiAlH4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-029",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which compound is para-directing?",
+    "options": ["–NO2", "–OH", "–CN", "–CF3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-030",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are meta-directing groups EXCEPT:",
+    "options": ["–NO2", "–CN", "–SO3H", "–OH"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-031",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which technique identifies functional groups?",
+    "options": [
+      "IR spectroscopy",
+      "NMR spectroscopy",
+      "Mass spectrometry",
+      "UV-Vis spectroscopy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-032",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which spectroscopy distinguishes protons in different environments?",
+    "options": ["IR", "NMR", "Mass spec", "UV-Vis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-033",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which peak corresponds to carbonyl in IR?",
+    "options": ["~2200 cm⁻¹", "~1700 cm⁻¹", "~3400 cm⁻¹", "~1200 cm⁻¹"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-034",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which biomolecule contains peptide bonds?",
+    "options": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-035",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which biomolecule contains glycosidic bonds?",
+    "options": ["Proteins", "Carbohydrates", "Lipids", "Nucleic acids"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-036",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which base is purine?",
+    "options": ["Cytosine", "Thymine", "Adenine", "Uracil"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-037",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which sugar is present in RNA?",
+    "options": ["Deoxyribose", "Ribose", "Fructose", "Glucose"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-038",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are pyrimidines EXCEPT:",
+    "options": ["Cytosine", "Uracil", "Thymine", "Adenine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "org-039",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which bond links nucleotides in DNA?",
+    "options": [
+      "Peptide bond",
+      "Glycosidic bond",
+      "Phosphodiester bond",
+      "Hydrogen bond"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-040",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which interaction stabilizes DNA double helix?",
+    "options": [
+      "Ionic bonds",
+      "Peptide bonds",
+      "Hydrogen bonds",
+      "Metallic bonds"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-041",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent is used for ozonolysis of alkenes?",
+    "options": ["O3", "KMnO4", "HBr", "LiAlH4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-042",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which polymer is formed from styrene?",
+    "options": ["Polyethylene", "Polystyrene", "PVC", "Nylon-6,6"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-043",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which polymer is formed from vinyl chloride?",
+    "options": ["PVC", "Polyethylene", "Teflon", "Polystyrene"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-044",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which polymer is formed from tetrafluoroethylene?",
+    "options": ["PVC", "Teflon", "Nylon", "Polystyrene"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-045",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reaction produces soap?",
+    "options": [
+      "Saponification",
+      "Esterification",
+      "Hydrogenation",
+      "Hydrolysis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-046",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which process converts oils to fats?",
+    "options": ["Esterification", "Hydrogenation", "Hydrolysis", "Oxidation"],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-047",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent is used in aldol condensation?",
+    "options": ["Dilute NaOH", "HCl", "KMnO4", "NaBH4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "org-048",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reaction involves cleavage of C–C bond with heat or light?",
+    "options": [
+      "Free radical halogenation",
+      "Cracking",
+      "Ozonolysis",
+      "Hydrogenation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "org-049",
+    "module": "org",
+    "subject": "organic",
+    "question": "All are types of elimination reactions EXCEPT:",
+    "options": ["E1", "E2", "SN1", "Hofmann elimination"],
+    "answerIndex": 2
+  },
+  {
+    "id": "org-050",
+    "module": "org",
+    "subject": "organic",
+    "question": "Which reagent is used in Grignard reaction?",
+    "options": ["RMgX", "NaBH4", "KMnO4", "H2SO4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-001",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which functional group is essential for sulfonamide antibacterial activity?",
+    "options": ["–COOH", "–SO2NH2", "–OH", "–NH2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-002",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are mechanisms of β-lactam antibiotics EXCEPT:",
+    "options": [
+      "Inhibit transpeptidase",
+      "Block cell wall synthesis",
+      "Inhibit DNA gyrase",
+      "Cause bacterial lysis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-003",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is present in penicillins?",
+    "options": ["Imidazole", "β-lactam", "Pyridine", "Quinoline"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-004",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug class acts as PABA antagonists?",
+    "options": ["Quinolones", "Sulfonamides", "Macrolides", "Aminoglycosides"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-005",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug inhibits bacterial DNA gyrase?",
+    "options": [
+      "Ciprofloxacin",
+      "Penicillin G",
+      "Erythromycin",
+      "Sulfisoxazole"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-006",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which structural feature makes tetracyclines chelate metals?",
+    "options": [
+      "Hydroxyl groups",
+      "Enolized diketone system",
+      "Amino group",
+      "Lactone ring"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-007",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which macrolide antibiotic contains a large lactone ring?",
+    "options": ["Ciprofloxacin", "Erythromycin", "Penicillin", "Vancomycin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-008",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are adverse effects of aminoglycosides EXCEPT:",
+    "options": [
+      "Nephrotoxicity",
+      "Ototoxicity",
+      "Bone marrow suppression",
+      "Neuromuscular blockade"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-009",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug class does chloramphenicol belong to?",
+    "options": ["Aminoglycoside", "Amphenicol", "Macrolide", "Tetracycline"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-010",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which functional group is responsible for aspirin’s activity?",
+    "options": ["–OH", "Ester", "–COOH", "Amide"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-011",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are NSAIDs EXCEPT:",
+    "options": ["Ibuprofen", "Naproxen", "Prednisone", "Indomethacin"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-012",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which NSAID is a prodrug?",
+    "options": ["Indomethacin", "Sulindac", "Naproxen", "Diclofenac"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-013",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is essential in barbiturates?",
+    "options": ["Pyridine", "Barbituric acid", "Imidazole", "Benzimidazole"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-014",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which substitution increases barbiturate lipid solubility?",
+    "options": [
+      "Alkylation at C-5",
+      "Hydroxylation at C-1",
+      "Amination at C-2",
+      "Carboxylation at C-4"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-015",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are benzodiazepines EXCEPT:",
+    "options": ["Diazepam", "Lorazepam", "Phenobarbital", "Alprazolam"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-016",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is present in benzodiazepines?",
+    "options": ["Quinoline", "Imidazole", "1,4-benzodiazepine", "Indole"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-017",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which functional group is essential for local anesthetic activity?",
+    "options": [
+      "Ester/Amide linkage",
+      "Nitro group",
+      "Carboxyl group",
+      "Hydroxyl group"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-018",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which feature differentiates ester vs amide local anesthetics?",
+    "options": ["Onset", "Duration", "Route", "Hydrolysis pathway"],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-019",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which functional group is essential in statins?",
+    "options": ["Lactone/hydroxy acid", "Amine", "Ether", "Amide"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-020",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are natural statins EXCEPT:",
+    "options": ["Lovastatin", "Pravastatin", "Simvastatin", "Atorvastatin"],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-021",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which group in ACE inhibitors mimics peptide bond?",
+    "options": ["Sulfhydryl", "Carboxyl", "Phosphinyl", "All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-022",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which β-blocker has intrinsic sympathomimetic activity?",
+    "options": ["Propranolol", "Pindolol", "Atenolol", "Metoprolol"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-023",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is present in quinolone antibiotics?",
+    "options": ["Pyridine", "Quinolone", "Piperazine", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-024",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug class contains a β-lactam ring fused to a thiazolidine?",
+    "options": ["Penicillins", "Cephalosporins", "Carbapenems", "Monobactams"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-025",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are adverse effects of tetracyclines EXCEPT:",
+    "options": [
+      "Teeth discoloration",
+      "Photosensitivity",
+      "Ototoxicity",
+      "Chelation with Ca2+"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-026",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is present in morphine?",
+    "options": ["Quinoline", "Phenanthrene", "Indole", "Pyridine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-027",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which substitution increases opioid analgesic potency?",
+    "options": [
+      "N-methylation",
+      "N-allylation",
+      "Hydroxylation at C-6",
+      "Acetylation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-028",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which heterocycle is essential in histamine H1-antagonists?",
+    "options": ["Imidazole", "Piperazine", "Pyridine", "Indole"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-029",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which functional group is responsible for irreversible COX inhibition by aspirin?",
+    "options": ["Hydroxyl", "Acetyl", "Carboxyl", "Amide"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-030",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are H2-antagonists EXCEPT:",
+    "options": ["Cimetidine", "Ranitidine", "Famotidine", "Diphenhydramine"],
+    "answerIndex": 3
+  },
+  {
+    "id": "medorg-031",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which alkylating agent contains a nitrogen mustard group?",
+    "options": ["Cyclophosphamide", "Methotrexate", "5-FU", "Doxorubicin"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-032",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug is a folate antagonist?",
+    "options": ["Cyclophosphamide", "Methotrexate", "5-FU", "Doxorubicin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-033",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug inhibits thymidylate synthase?",
+    "options": ["5-FU", "Methotrexate", "Cytarabine", "Vincristine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-034",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which anticancer drug intercalates DNA?",
+    "options": [
+      "Methotrexate",
+      "Cyclophosphamide",
+      "Doxorubicin",
+      "Cytarabine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-035",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are purine analogs EXCEPT:",
+    "options": [
+      "6-Mercaptopurine",
+      "Azathioprine",
+      "Cytarabine",
+      "Fludarabine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-036",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which antiviral is a guanosine analog?",
+    "options": ["Zidovudine", "Acyclovir", "Lamivudine", "Stavudine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-037",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which antiviral is a thymidine analog?",
+    "options": ["Zidovudine", "Acyclovir", "Lamivudine", "Abacavir"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-038",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which antitubercular drug requires activation by catalase-peroxidase?",
+    "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-039",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which antitubercular drug inhibits RNA polymerase?",
+    "options": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-040",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are antitubercular drugs EXCEPT:",
+    "options": ["Isoniazid", "Rifampicin", "Ciprofloxacin", "Ethambutol"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-041",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which prodrug is activated to 6-mercaptopurine?",
+    "options": ["Methotrexate", "Azathioprine", "Cytarabine", "Vinblastine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-042",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which drug is metabolized to active morphine?",
+    "options": ["Codeine", "Fentanyl", "Meperidine", "Hydromorphone"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-043",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which modification enhances drug water solubility?",
+    "options": ["Hydroxylation", "Sulfation", "Methylation", "Acetylation"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-044",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which modification increases lipophilicity?",
+    "options": ["Hydroxylation", "Sulfation", "Methylation", "Glucuronidation"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-045",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are Phase II reactions EXCEPT:",
+    "options": ["Glucuronidation", "Sulfation", "Oxidation", "Acetylation"],
+    "answerIndex": 2
+  },
+  {
+    "id": "medorg-046",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which is a bioisostere of carboxylic acid?",
+    "options": ["Sulfonamide", "Tetrazole", "Hydroxyl", "Amine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-047",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which prodrug is used to improve oral bioavailability of dopamine?",
+    "options": ["L-Dopa", "Dobutamine", "Epinephrine", "Norepinephrine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "medorg-048",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which stereoisomer of thalidomide is teratogenic?",
+    "options": ["R", "S", "Racemate", "Both"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-049",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "Which stereoisomer of propranolol is more active?",
+    "options": ["R", "S", "Both equally", "Neither"],
+    "answerIndex": 1
+  },
+  {
+    "id": "medorg-050",
+    "module": "medorg",
+    "subject": "medicinal_organic",
+    "question": "All are advantages of prodrugs EXCEPT:",
+    "options": [
+      "Improved solubility",
+      "Increased absorption",
+      "Decreased toxicity",
+      "Increased cost of therapy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-001",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which subatomic particle determines the identity of an element?",
+    "options": ["Neutron", "Proton", "Electron", "Positron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-002",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which bond is formed by equal sharing of electrons?",
+    "options": ["Ionic", "Nonpolar covalent", "Polar covalent", "Metallic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-003",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which 0.10 M solution has the lowest pH?",
+    "options": ["HCl", "NaCl", "CH3COOH", "NH4Cl"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-004",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Ice → water is what type of process?",
+    "options": ["Exothermic", "Endothermic", "Isochoric", "Adiabatic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-005",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which is a balanced equation?",
+    "options": [
+      "H2 + Cl2 → HCl",
+      "C + O2 → CO",
+      "N2 + 3H2 → 2NH3",
+      "2Na + Cl2 → NaCl2"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-006",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Lewis acid among the following:",
+    "options": ["NH3", "AlCl3", "H2O", "CH4"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-007",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which is amphoteric?",
+    "options": ["NaOH", "H2O", "HCl", "Ca(OH)2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-008",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which is both an element and a molecule?",
+    "options": ["NaCl", "CO2", "H2", "H2O"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-009",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Decay with e− emission is:",
+    "options": [
+      "Alpha decay",
+      "Gamma decay",
+      "Beta decay",
+      "Positron emission"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-010",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Epsom salt is",
+    "options": ["MgSO4", "CaSO4", "BaSO4", "ZnSO4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-011",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "E°(Zn2+/Zn) = ? V",
+    "options": ["+0.76", "+0.34", "−0.77", "−2.37"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-012",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Group of highly electronegative elements:",
+    "options": [
+      "Alkali metals",
+      "Halogens",
+      "Noble gases",
+      "Alkaline earth metals"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-013",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Lightest metal:",
+    "options": ["Na", "Li", "K", "Mg"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-014",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Ice floats because it is",
+    "options": [
+      "More dense",
+      "Less dense due to H-bonding",
+      "Ionic",
+      "Supercooled"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-015",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Weak acid here:",
+    "options": ["CH3COOH", "HCl", "NaOH", "KOH"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-016",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Forms a precipitate:",
+    "options": ["NaCl + AgNO3", "HCl + NaOH", "NH4Cl + HNO3", "Pb(NO3)2 + KI"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-017",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Neutralization example:",
+    "options": ["Cu + HCl", "H2SO4 + NaOH", "H2 + Cl2", "CaCO3 → CaO + CO2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-018",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "[NO3−] in 0.035 M Al(NO3)3",
+    "options": ["0.035 M", "0.105 M", "0.070 M", "0.140 M"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-019",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Avogadro's number is",
+    "options": ["6.022×10^23", "1.00×10^6", "3.00×10^8", "9.81"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-020",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "0 °C equals",
+    "options": ["250 K", "298 K", "260 K", "273.15 K"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-021",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Mass of 0.5 mol H2O",
+    "options": ["5.0 g", "7.5 g", "8.0 g", "9.0 g"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-022",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "STP: volume of 12.2 g O2",
+    "options": ["273 mL", "12.2 mL", "24.5 L", "22.4 L"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-023",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "At constant V, raising T… pressure",
+    "options": ["Decreases", "Increases", "Unchanged", "Zero"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-024",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Half-life 10 h. Fraction left after 25 h",
+    "options": ["1/4", "1/3", "1/8", "1/16"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-025",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Collect gas over water at 760 mmHg, P(H2O)=720 mmHg. Gas pressure =",
+    "options": ["760", "720", "40", "680"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-026",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Higher boiling point: Cl2 or F2?",
+    "options": ["F2", "Cl2", "Same", "Need more info"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-027",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Nonpolar molecule:",
+    "options": ["CH4", "H2O", "NH3", "HCl"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-028",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Shape of H2O",
+    "options": ["Bent", "Linear", "Trigonal planar", "Tetrahedral"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-029",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Most ionic bond:",
+    "options": ["HF", "NaF", "MgO", "NH3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-030",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Mole fraction of solute if χsolvent=0.970",
+    "options": ["0.003", "0.015", "0.030", "0.970"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-031",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Dilute 0.50 M to 1.0 L using 0.10 mol solute: final molarity",
+    "options": ["0.10 M", "0.02 M", "0.05 M", "0.01 M"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-032",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Best buffer near pH≈4.76",
+    "options": ["CH3COOH/CH3COONa", "H2CO3/NaHCO3", "NH3/NH4Cl", "HCl/NaCl"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-033",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Metal used for galvanization",
+    "options": ["Zn", "Cu", "Fe", "Ni"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-034",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "2.0 mol ideal gas occupies 49.2 L at 300 K. Pressure =",
+    "options": ["0.5 atm", "2.0 atm", "0.25 atm", "1.0 atm"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-035",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Arrhenius acid:",
+    "options": ["NaOH", "NH3", "H2SO4", "Na2CO3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-036",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "True about catalysts:",
+    "options": [
+      "Raise Ea",
+      "Consumed in rxn",
+      "Shift equilibrium",
+      "Lower activation energy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-037",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "pH 2 solution has [H+] =",
+    "options": ["1×10^-2 M", "1×10^-12 M", "1×10^-7 M", "2 M"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-038",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Dry ice is a",
+    "options": [
+      "Ionic solid",
+      "Molecular solid",
+      "Covalent network",
+      "Metallic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-039",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Mass % of Na in NaCl",
+    "options": ["50.00%", "39.34%", "23.00%", "60.66%"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-040",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Rate independent of [A]",
+    "options": ["1st order", "2nd order", "3rd order", "Zero order"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-041",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Highest boiling point",
+    "options": ["H2O", "H2S", "HF", "HCl"],
+    "answerIndex": 2
+  },
+  {
+    "id": "gc-042",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "pH of 0.250 M CH3COOH (Ka=1.8×10^-5)",
+    "options": ["1.00", "7.00", "3.50", "≈2.72"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-043",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Diamagnetic species",
+    "options": ["Zn2+", "Fe3+", "Cr3+", "Mn2+"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-044",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Least soluble in water",
+    "options": ["NaCl", "AgCl", "KNO3", "NaNO3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-045",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Highest electron affinity",
+    "options": ["Cl", "F", "O", "N"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-046",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "pOH 5.00 ⇒ pH =",
+    "options": ["5.00", "7.00", "14.00", "9.00"],
+    "answerIndex": 3
+  },
+  {
+    "id": "gc-047",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Which is an alkyne?",
+    "options": ["C3H4", "C2H6", "C3H8", "C2H4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-048",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Acid + base produce",
+    "options": ["Salt + water", "Gas only", "Oxide only", "Metal only"],
+    "answerIndex": 0
+  },
+  {
+    "id": "gc-049",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Redox reaction:",
+    "options": ["HCl + NaOH", "Zn + CuSO4", "AgCl(s) ⇌ Ag+ + Cl−", "NH3 + HCl"],
+    "answerIndex": 1
+  },
+  {
+    "id": "gc-050",
+    "module": "genchem",
+    "subject": "genchem",
+    "question": "Adiabatic process has constant",
+    "options": ["P", "T", "q=0", "V"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-001",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Highest first ionization energy?",
+    "options": ["Li", "Be", "F", "He"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-002",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "All are alkaline earth metals EXCEPT",
+    "options": ["Mg", "Ca", "Sr", "Na"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-003",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Smallest atomic radius",
+    "options": ["Na", "Cl", "F", "Ne"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-004",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Halogens are in",
+    "options": ["Group 14", "Group 15", "Group 16", "Group 17"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-005",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Transition element",
+    "options": ["Na", "Fe", "Ca", "K"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-006",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Diamond is a ___ solid",
+    "options": ["Ionic", "Covalent network", "Metallic", "Molecular"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-007",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Diatomic at STP",
+    "options": ["Ne", "Cl2", "He", "Ar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-008",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Metallic bonding — NOT a property",
+    "options": [
+      "Sea of electrons",
+      "Conductivity",
+      "Brittleness",
+      "Malleability"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-009",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "CO2 is an ___ oxide",
+    "options": ["Acidic", "Basic", "Amphoteric", "Neutral"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-010",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Amphoteric oxide",
+    "options": ["Na2O", "MgO", "Al2O3", "CO2"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-011",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Most reactive halogen",
+    "options": ["F", "Cl", "Br", "I"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-012",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Noble gas forming fluorides",
+    "options": ["He", "Ne", "Ar", "Xe"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-013",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Least reactive alkali metal",
+    "options": ["Li", "Na", "K", "Cs"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-014",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Stored under oil",
+    "options": ["Na", "Ca", "Mg", "Be"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-015",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "NOT a property of halogens",
+    "options": [
+      "High EN",
+      "Good oxidizers",
+      "Poor reducers",
+      "Metallic conductivity"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-016",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4−",
+    "options": ["+2", "+3", "+4", "+6"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-017",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Coordination number of Co in [Co(NH3)6]3+",
+    "options": ["4", "5", "6", "8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-018",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "[Co(NH3)5Cl]Br2 vs [Co(NH3)5Br]Cl2 show",
+    "options": [
+      "Hydrate isomerism",
+      "Linkage isomerism",
+      "Ionization isomerism",
+      "Geometrical isomerism"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-019",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "cis/trans-[Pt(NH3)2Cl2] are",
+    "options": ["Ionization", "Geometrical", "Optical", "Linkage"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-020",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Bidentate ligand",
+    "options": ["NH3", "H2O", "C2O4^2−", "Cl−"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-021",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Strongest acid",
+    "options": ["HCl", "H2SO4", "HNO3", "HClO4"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-022",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Strongest base",
+    "options": ["NaOH", "KOH", "Ba(OH)2", "NH3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-023",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "NOT amphoteric hydroxide",
+    "options": ["Al(OH)3", "Zn(OH)2", "Pb(OH)2", "NaOH"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-024",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Highest oxidation state among options",
+    "options": ["Mn in MnO4−", "Cr in Cr2O7^2−", "Fe in Fe2O3", "V in VO2+"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-025",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Oxidizing agent in KMnO4 reactions",
+    "options": ["MnO4−", "K+", "H2O", "O2"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-026",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Flame color of sodium",
+    "options": ["Green", "Yellow", "Violet", "Red"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-027",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Flame color of potassium",
+    "options": ["Yellow", "Violet", "Red", "Blue"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-028",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Flame color of copper",
+    "options": ["Blue-green", "Yellow", "Violet", "Crimson"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-029",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Test reagent for halides",
+    "options": ["AgNO3", "NaOH", "NH4Cl", "H2SO4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-030",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "NOT an insoluble chloride",
+    "options": ["AgCl", "PbCl2", "NaCl", "Hg2Cl2"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-031",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Gas causing acid rain",
+    "options": ["CO2", "SO2", "CH4", "O2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-032",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Laughing gas",
+    "options": ["NO", "NO2", "N2O", "N2O5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-033",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Haber process catalyst",
+    "options": ["Fe", "Ni", "Pt", "Cu"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-034",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Contact process makes",
+    "options": ["HNO3", "HCl", "H2SO4", "NaOH"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-035",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Ore of aluminum",
+    "options": ["Hematite", "Bauxite", "Galena", "Chalcopyrite"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-036",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Quicklime",
+    "options": ["CaO", "CaCO3", "Ca(OH)2", "CaSO4"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-037",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Gypsum",
+    "options": ["CaSO4·2H2O", "CaSO4", "CaCO3", "CaCl2"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-038",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Gas used to prepare bleaching powder",
+    "options": ["O2", "Cl2", "H2", "CO2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-039",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Central atom in hemoglobin",
+    "options": ["Fe", "Cu", "Mg", "Zn"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-040",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Central atom in chlorophyll",
+    "options": ["Fe", "Cu", "Mg", "Zn"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-041",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Noble gas used in lighting",
+    "options": ["He", "Ne", "Ar", "Kr"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-042",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Noble gas used in welding",
+    "options": ["He", "Ne", "Ar", "Kr"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-043",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Transition metal in stainless steel",
+    "options": ["Cu", "Ni", "Zn", "Al"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-044",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Element causing Minamata disease",
+    "options": ["Pb", "Hg", "Cd", "As"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-045",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "NOT a toxic heavy metal",
+    "options": ["Pb", "Hg", "Cd", "Ca"],
+    "answerIndex": 3
+  },
+  {
+    "id": "ic-046",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Element in vitamin B12",
+    "options": ["Fe", "Co", "Mg", "Zn"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-047",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Isotope for thyroid treatment",
+    "options": ["I-127", "I-131", "C-14", "Co-60"],
+    "answerIndex": 1
+  },
+  {
+    "id": "ic-048",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Isotope for carbon dating",
+    "options": ["C-12", "C-13", "C-14", "C-11"],
+    "answerIndex": 2
+  },
+  {
+    "id": "ic-049",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Marsh gas",
+    "options": ["CH4", "CO2", "NH3", "H2"],
+    "answerIndex": 0
+  },
+  {
+    "id": "ic-050",
+    "module": "inorg",
+    "subject": "inorg",
+    "question": "Haber process feed gases",
+    "options": ["O2", "H2", "N2", "Both N2 and H2"],
+    "answerIndex": 3
   }
 ]

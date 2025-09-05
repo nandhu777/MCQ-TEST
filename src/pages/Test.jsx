@@ -17,6 +17,7 @@ export default function TestPage({
   onExit,
 }) {
   const [askExit, setAskExit] = useState(false);
+  const [askSubmit, setAskSubmit] = useState(false);
 
   return (
     <div style={{ maxWidth: 1200, width: "100%" }}>
@@ -74,6 +75,7 @@ export default function TestPage({
                       name={`q-${idx}`}
                       checked={answers[idx] === i}
                       onChange={() => choose(i)}
+                      style={styles.radio}
                     />
                     <span>{opt}</span>
                   </label>
@@ -96,7 +98,7 @@ export default function TestPage({
               >
                 Next
               </button>
-              <button style={styles.success} onClick={onSubmit}>
+              <button style={styles.success} onClick={() => setAskSubmit(true)}>
                 Submit
               </button>
               <button
@@ -121,6 +123,20 @@ export default function TestPage({
             onExit && onExit();
           }}
           onCancel={() => setAskExit(false)}
+        />
+      )}
+      {/* Confirm: Submit */}
+      {askSubmit && (
+        <ConfirmDialog
+          title="Submit the test?"
+          message="Once you submit, you can’t change your answers for this attempt. Continue?"
+          confirmLabel="Submit"
+          cancelLabel="Review"
+          onConfirm={() => {
+            setAskSubmit(false);
+            onSubmit && onSubmit();
+          }}
+          onCancel={() => setAskSubmit(false)}
         />
       )}
     </div>
