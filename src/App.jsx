@@ -10,6 +10,7 @@ import ModulesPage from "./pages/Modules";
 import TestPage from "./pages/Test";
 import ResultsPage from "./pages/Results";
 import { computeStats } from "./utils/Stats";
+import { sampleUnique } from "./utils/random";
 import { sampleWithoutReplacement } from "./utils/random";
 
 export default function App() {
@@ -76,7 +77,7 @@ export default function App() {
   const openModule = (moduleId) => {
     const pool = banks[moduleId] || [];
     // Pick up to 100 unique questions at random (no repeats within this attempt)
-    const picked = sampleWithoutReplacement(pool, 100);
+    const picked = sampleUnique(pool, 100);
     const questions = picked.map((q, i) => ({ ...q, _num: i + 1 }));
     const startedAt = Date.now();
     const endsAt = startedAt + 120 * 60_000; // 2 hours
