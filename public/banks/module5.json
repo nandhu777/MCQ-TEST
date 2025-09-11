@@ -1,0 +1,1143 @@
+[
+  {"id":"m5-001","module":"m5","subject":"manufacturing_pharmacy","question":"Step in sugar-coating that adds the most weight","options":["Seal coating","Subcoating","Grossing","Polishing"],"answerIndex":1},
+  {"id":"m5-002","module":"m5","subject":"manufacturing_pharmacy","question":"Surfactants with an HLB value of 5 can be used as","options":["Anti-foaming","W/O emulsifier","Wetting agent","O/W emulsifier"],"answerIndex":1},
+  {"id":"m5-003","module":"m5","subject":"manufacturing_pharmacy","question":"The only tamper-resistant packaging by design","options":["Ointment tubes","Amber bottles","Aerosol cans","Blister packs"],"answerIndex":2},
+  {"id":"m5-004","module":"m5","subject":"manufacturing_pharmacy","question":"System that helps maintain good indoor air quality through adequate ventilation with filtration and provide thermal comfort","options":["Laminar airflow","Negative pressure","HVAC","HEPA filter"],"answerIndex":2},
+  {"id":"m5-005","module":"m5","subject":"manufacturing_pharmacy","question":"Clean room class for tableting","options":["100","1,000","10,000","100,000"],"answerIndex":3},
+  {"id":"m5-006","module":"m5","subject":"manufacturing_pharmacy","question":"Coating defect where the film becomes dull immediately or after prolonged storage at high temperatures","options":["Blushing","Cratering","Blistering","Blooming"],"answerIndex":3},
+  {"id":"m5-007","module":"m5","subject":"manufacturing_pharmacy","question":"Tableting defect that causes the removal of the tablet’s surface by a punch","options":["Picking","Sticking","Chipping","Ratholing"],"answerIndex":0},
+  {"id":"m5-008","module":"m5","subject":"manufacturing_pharmacy","question":"Tablet processing defect characterized by the uneven distribution of color on the surface","options":["Blushing","Blooming","Cratering","Mottling"],"answerIndex":3},
+  {"id":"m5-009","module":"m5","subject":"manufacturing_pharmacy","question":"Castor oil and glycerin are employed as _____ for film coating solutions to improve the film quality","options":["Film-former","Humectant","Plasticizer","Colorant"],"answerIndex":2},
+  {"id":"m5-010","module":"m5","subject":"manufacturing_pharmacy","question":"The following impart gloss to the final tablet, EXCEPT","options":["Beeswax","Carnauba wax","Paraffin","Titanium dioxide"],"answerIndex":3},
+  {"id":"m5-011","module":"m5","subject":"manufacturing_pharmacy","question":"Tablet hardness tester containing a compressible spring held between two plungers","options":["Stokes-Monsanto","Pfizer","Strong-Cobb","Erweka"],"answerIndex":0},
+  {"id":"m5-012","module":"m5","subject":"manufacturing_pharmacy","question":"Which fixed oil CANNOT be used as non-aqueous vehicle for sterile solution?","options":["Corn oil","Coconut oil","Cottonseed oil","Peanut oil"],"answerIndex":1},
+  {"id":"m5-013","module":"m5","subject":"manufacturing_pharmacy","question":"Which is compromised in flocculated suspensions?","options":["Tendency to form hard cake","Pharmaceutical elegance","Redispersibility","Viscosity"],"answerIndex":1},
+  {"id":"m5-014","module":"m5","subject":"manufacturing_pharmacy","question":"Primary package systems, as differentiated from secondary,","options":["Are in direct contact with the product","Have a direct effect on the product shelf life","Both statements are correct","Neither statement is correct"],"answerIndex":2},
+  {"id":"m5-015","module":"m5","subject":"manufacturing_pharmacy","question":"Largest capsule size for human use","options":["000","00","0","1"],"answerIndex":0},
+  {"id":"m5-016","module":"m5","subject":"manufacturing_pharmacy","question":"Content uniformity ensures which quality in tablet products","options":["Disintegration","Potency","Purity","Toxicity"],"answerIndex":1},
+  {"id":"m5-017","module":"m5","subject":"manufacturing_pharmacy","question":"Surfactants tend to enhance absorption primarily due to","options":["Effects on biological membrane","Effects on dissolution rate","Reduction of interfacial tension","Increase in interfacial tension"],"answerIndex":0},
+  {"id":"m5-018","module":"m5","subject":"manufacturing_pharmacy","question":"Quality assurance functions, EXCEPT","options":["Auditing/control of manufacturing documents","CGMP monitoring","Product forecasting","Environmental control"],"answerIndex":2},
+  {"id":"m5-019","module":"m5","subject":"manufacturing_pharmacy","question":"Establishment that is the registered owner, procures materials/packaging and provides monograph/standards","options":["Drug importer","Drug trader","Drug supplier","Drug manufacturer"],"answerIndex":1},
+  {"id":"m5-020","module":"m5","subject":"manufacturing_pharmacy","question":"Multiple-dose containers include","options":["Ampules","Pre-filled syringe","Large volume parenteral","Vials"],"answerIndex":3},
+  {"id":"m5-021","module":"m5","subject":"manufacturing_pharmacy","question":"Factors that accelerate instability include","options":["Temperature","Light","Moisture","All of the choices"],"answerIndex":3},
+  {"id":"m5-022","module":"m5","subject":"manufacturing_pharmacy","question":"Set of guidelines safeguarding patient health and ensuring quality medicines/devices/APIs","options":["Quality Control","Quality Assurance","Quality Management System","Good Manufacturing Practices"],"answerIndex":3},
+  {"id":"m5-023","module":"m5","subject":"manufacturing_pharmacy","question":"Resistant bacterial spores used to prove effectiveness of new sterilization equipment/process","options":["Pyrogens","Endotoxins","Biological Indicators","Limulus Amoebocyte"],"answerIndex":2},
+  {"id":"m5-024","module":"m5","subject":"manufacturing_pharmacy","question":"Component of pharmaceutical glaze","options":["Alginic acid","Shellac","Liquid glucose","Mineral oil"],"answerIndex":1},
+  {"id":"m5-025","module":"m5","subject":"manufacturing_pharmacy","question":"Tablet excipient that promotes flow by reducing friction between particles","options":["Glidant","Antiadherent","Lubricant","Binder"],"answerIndex":0},
+  {"id":"m5-026","module":"m5","subject":"manufacturing_pharmacy","question":"BCS Class III","options":["High solubility, high permeability","High solubility, low permeability","Low solubility, high permeability","Low solubility, low permeability"],"answerIndex":1},
+  {"id":"m5-027","module":"m5","subject":"manufacturing_pharmacy","question":"Quality assurance functions, EXCEPT","options":["Auditing/control of manufacturing documents","CGMP monitoring","Product forecasting","Environmental control"],"answerIndex":2},
+  {"id":"m5-028","module":"m5","subject":"manufacturing_pharmacy","question":"Common method employed by a pharmacist in filling capsules","options":["Punch method","Push method","Dry gum method","Hunch method"],"answerIndex":0},
+  {"id":"m5-029","module":"m5","subject":"manufacturing_pharmacy","question":"Solubility may be enhanced through","options":["Application of heat","Agitation","Reduction of particle size","All of the above"],"answerIndex":3},
+  {"id":"m5-030","module":"m5","subject":"manufacturing_pharmacy","question":"Separation of a tablet into 2 or more distinct layers","options":["Picking","Capping","Lamination","Chipping"],"answerIndex":2},
+  {"id":"m5-031","module":"m5","subject":"manufacturing_pharmacy","question":"Partial or complete separation of the top or bottom of a tablet from the main body","options":["Picking","Capping","Lamination","Chipping"],"answerIndex":1},
+  {"id":"m5-032","module":"m5","subject":"manufacturing_pharmacy","question":"Removal of the edges of tablets","options":["Picking","Capping","Lamination","Chipping"],"answerIndex":3},
+  {"id":"m5-033","module":"m5","subject":"manufacturing_pharmacy","question":"Adhesion of granulation to the die wall","options":["Weight variation","Mottling","Double impression","Sticking"],"answerIndex":3},
+  {"id":"m5-034","module":"m5","subject":"manufacturing_pharmacy","question":"Caused by poor mixing","options":["Weight variation","Mottling","Double impression","Sticking"],"answerIndex":1},
+  {"id":"m5-035","module":"m5","subject":"manufacturing_pharmacy","question":"Employed to produce carbon dioxide upon addition of water","options":["Effervescent tablets","Hygroscopic tablet","Eutectic tablet","All of the above"],"answerIndex":0},
+  {"id":"m5-036","module":"m5","subject":"manufacturing_pharmacy","question":"Polymer used in film-coating formulations","options":["HPMC","PEG","Propylene glycol","Diethyl phthalate"],"answerIndex":0},
+  {"id":"m5-037","module":"m5","subject":"manufacturing_pharmacy","question":"The thickness of a tablet is determined by the following factors, EXCEPT","options":["Shape of the punch","Diameter of the die","Amount of fill entering the die cavity","Pressure applied during compression"],"answerIndex":0},
+  {"id":"m5-038","module":"m5","subject":"manufacturing_pharmacy","question":"Which statement is NOT true for tablet hardness and friability?","options":["Greater pressure → harder tablets","Tablets intended to dissolve slowly are made hard","Tablets intended to dissolve slowly are compressed with minimal pressure","Tablets should be soft enough to disintegrate properly after swallowing"],"answerIndex":2},
+  {"id":"m5-039","module":"m5","subject":"manufacturing_pharmacy","question":"Accepted maximum weight loss of not more than 1% is a requirement for","options":["Tablet dissolution","Tablet disintegration","Tablet friability","Tablet hardness"],"answerIndex":2},
+  {"id":"m5-040","module":"m5","subject":"manufacturing_pharmacy","question":"Process by which the powder mixture is compressed into large flat tablets/pellets about 1 inch in diameter","options":["Fluid bed process","Dry granulation","Direct compression","Slugging"],"answerIndex":3},
+  {"id":"m5-041","module":"m5","subject":"manufacturing_pharmacy","question":"Optional step in the sugar coating of tablets","options":["Subcoating","Waterproofing & sealing","Smoothing & final rounding","Polishing"],"answerIndex":3},
+  {"id":"m5-042","module":"m5","subject":"manufacturing_pharmacy","question":"About 90% of FDA-regulated dyes are synthesized from which colorless benzene derivative?","options":["Tartrazine","Eosin","Aniline","Riboflavin"],"answerIndex":2},
+  {"id":"m5-043","module":"m5","subject":"manufacturing_pharmacy","question":"Dye component in FD&C Yellow No. 5 that causes allergic-type reactions","options":["Tartrazine","Eosin","Aniline","Riboflavin"],"answerIndex":0},
+  {"id":"m5-044","module":"m5","subject":"manufacturing_pharmacy","question":"Suppositories are prepared by the three general methods, EXCEPT","options":["Compression","Molding","Hand-rolling","Filling"],"answerIndex":3},
+  {"id":"m5-045","module":"m5","subject":"manufacturing_pharmacy","question":"Loose aggregation of suspension particles is called","options":["Micronization","Flocculation","Redispersion","All of the above"],"answerIndex":1},
+  {"id":"m5-046","module":"m5","subject":"manufacturing_pharmacy","question":"Loose aggregation of suspension particles is called (choose the mechanism most related)","options":["Effects on biological membrane","Effects on dissolution rate","Reduction of interfacial tension","Increase in interfacial tension"],"answerIndex":2},
+  {"id":"m5-047","module":"m5","subject":"manufacturing_pharmacy","question":"Semisolid, semi-rigid systems consisting of dispersions of small inorganic particles or large organic molecules enclosing and interpenetrated by a liquid","options":["Emulsions","Gels","Suspensions","Magmas"],"answerIndex":1},
+  {"id":"m5-048","module":"m5","subject":"manufacturing_pharmacy","question":"Instability where separation of the solvent phase occurs due to elastic contraction of polymeric molecules","options":["Syneresis","Imbibition","Swelling","Thixotropy"],"answerIndex":0},
+  {"id":"m5-049","module":"m5","subject":"manufacturing_pharmacy","question":"General methods used to sterilize pharmaceutical products, EXCEPT","options":["Steam sterilization","Filtration","Ionizing radiation","Boiling"],"answerIndex":3},
+  {"id":"m5-050","module":"m5","subject":"manufacturing_pharmacy","question":"Biologic indicators: in steam and ethylene oxide sterilization, spores of suitable strains of ______ are commonly employed","options":["Bacillus pumilus","Bacillus subtilis","Bacillus stearothermophilus","Bacillus atrophaeus"],"answerIndex":1},
+  {"id":"m5-051","module":"m5","subject":"manufacturing_pharmacy","question":"Animal source of the Limulus Amoebocyte Lysate (LAL) test","options":["Rabbit","Horseshoe crab","Monkey","Fungi"],"answerIndex":1},
+  {"id":"m5-052","module":"m5","subject":"manufacturing_pharmacy","question":"Risk level of CSPs which include non-sterile components and therefore must be sterilized before administration","options":["Low-risk","Medium-risk","High-risk","None of the above"],"answerIndex":2},
+  {"id":"m5-053","module":"m5","subject":"manufacturing_pharmacy","question":"Sample chosen so one object has as good a chance of being selected as another","options":["QC sample","Random sample","Retention sample","Standard sample"],"answerIndex":1},
+  {"id":"m5-054","module":"m5","subject":"manufacturing_pharmacy","question":"Step-by-step method on how to go about a job","options":["Monograph","Master Formula Record","Batch Production Record","Standard Operating Procedure"],"answerIndex":3},
+  {"id":"m5-055","module":"m5","subject":"manufacturing_pharmacy","question":"Concise statement of ingredients that comprise the product with % and/or weight of each","options":["Formula","Standards","Specifications","Materials control"],"answerIndex":0},
+  {"id":"m5-056","module":"m5","subject":"manufacturing_pharmacy","question":"Policy to assure oldest stock is used first","options":["In-process","Quarantine","First in first out","First expiry first out"],"answerIndex":2},
+  {"id":"m5-057","module":"m5","subject":"manufacturing_pharmacy","question":"Original document used as key in the production of products","options":["Monograph","Master Formulation Record","Batch Production Record","Standard Operating Procedure"],"answerIndex":1},
+  {"id":"m5-058","module":"m5","subject":"manufacturing_pharmacy","question":"Process of verifying, by data and analysis, that design objectives are reliably fulfilled in routine operation","options":["Inspection","Validation","Evaluation","Quality Control"],"answerIndex":1},
+  {"id":"m5-059","module":"m5","subject":"dosage_forms","question":"Impervious to air or any other gas","options":["Tight","Hermetic","Light-resistant","Well-closed"],"answerIndex":1},
+  {"id":"m5-060","module":"m5","subject":"dosage_forms","question":"Antimicrobial agent used for Bacteriostatic Water for Injection","options":["Methylparaben","Ethyl Alcohol","Phenol","Benzyl Alcohol"],"answerIndex":3},
+    {
+      "id": "m5-061",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Most stable form of cocoa butter suppository base that melts at body temperature",
+      "options": ["ɑ","β","β’","γ"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-062",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is an alcoholic or hydroalcoholic solution prepared from vegetable drugs or chemical substances.",
+      "options": ["Elixir","Tincture","Spirit","Fluidextract"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-063",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is a hydroalcoholic solution of volatile oils.",
+      "options": ["Elixir","Tincture","Spirit","Fluidextract"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-064",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is a clear, pleasantly flavored or sweetened hydroalcoholic solution intended for oral use.",
+      "options": ["Elixir","Tincture","Spirit","Fluidextract"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-065",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following glass types does not contain soda lime?",
+      "options": ["Type I","Type II","Type III","Type IV or NP"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-066",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "When a part of solute requires 2500 parts of solvent, it is said to be",
+      "options": ["Soluble","Sparingly soluble","Very slightly soluble","Practically insoluble"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-067",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following statements are true about levigation? I. The amount of levigating agent used should be about equal in volume to the solid material. Mineral oil is the levigating agent used for water- soluble drugs Levigation allows both reduction of particle size and the dispersion of the substance in the vehicle. II. III.",
+      "options": ["I, II","I only","I, III","I, II, III"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-068",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This chemical agent is used to render the capsule opaque:",
+      "options": ["Titanium dioxide","Sorbitol","Magnesium oxide","Silica"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-069",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "These are solid dosage forms which are designed to be inserted under the skin by special injectors or by surgical incision.",
+      "options": ["Implants","Cachets","Troches","Suppositories","Plasters"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-070",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Another term for vaginal suppositories is:",
+      "options": ["Bougies","Pessaries","Enema","Vaginitis"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-071",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Reasons for preparing oral suspensions, EXCEPT:",
+      "options": ["Some drugs are more stable in suspension than in solution","Ease of swallowing liquid preparations","Disagreeable taste of some drugs in suspension","Flexibility of administration of doses"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-072",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Extraction of water-soluble and heat-stable constituents of crude drugs by boiling water for 15 mins, cooling, straining, and passing sufficient cold water through the drug to produce desired value.",
+      "options": ["Infusion","Digestion","Decoction","Maceration"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-073",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Extraction by macerating crude drug in gentle heat.",
+      "options": ["Infusion","Digestion","Decoction","Maceration"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-074",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Rubbing or grinding a substance in a mortar that has a rough inner surface:",
+      "options": ["Trituration","Geometric dilution","Sifting","Spatulation"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-075",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Used when potent substances must be mixed with a large amount of diluent",
+      "options": ["Trituration","Geometric dilution","Sifting","Spatulation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-076",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "What is the classification of substances having an HLB value of 0-3?",
+      "options": ["Solubilizers","Wetting Agents","Antifoaming Agents","Detergents"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-077",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Ointment base that is the most occlusive",
+      "options": ["Hydrocarbon","Absorption","Water-removable","Water-soluble PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-078",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Components of simple ointment:",
+      "options": ["White wax, yellow wax","White wax, white petrolatum","Yellow petrolatum, yellow wax","Yellow petrolatum, white wax"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-079",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A type of tablet that dissolves slowly in the cheeks for systemic absorption",
+      "options": ["Chewable tablet","Buccal tablet","Sublingual tablet","Orally disintegrating tablet"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-080",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is a type of powder paper that is transparent, water- proof and suitable for deliquescent and hygroscopic drugs.",
+      "options": ["Bond paper","Glassine","Vegetable parchment","Wax paper"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-081",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Classification of temperature between 8C and 15C:",
+      "options": ["Cold","Cool","Controlled room temperature","Warm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-082",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Water soluble bases are prepared from:",
+      "options": ["PEG","Sorbitol","Petrolatum","Mineral Oil"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-083",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The reduction of camphor with the aid of alcohol is called:",
+      "options": ["Trituration","Pulverization with intervention","Levigation","Spatulation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-084",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The following are preservatives except:",
+      "options": ["Undecylenic acid","Methyl paraben","Benzoic acid","Potassium sorbate"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-085",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "These are solid dosage forms which are designed to be inserted under the skin by special injectors or by surgical incision.",
+      "options": ["Implants","Cachets","Troches","Suppositories"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-086",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Products that are prone to decomposition by moisture generally are packed with a",
+      "options": ["Tight container","Vacuum seal","Absorbent cotton","Desiccant packet"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-087",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which one of the following liquid dosage forms requires a sterile formulation?",
+      "options": ["Shampoo","Topical spray","Oral Syrup","Eye drops"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-088",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A clear, saturated, aqueous solution of volatile oils or other aromatic or volatile substances",
+      "options": ["Aromatic waters","Gargles","Douches","Irrigation solutions"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-089",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "An aqueous solution directed against a part or into a cavity of the body, and functions as a cleansing or antiseptic agent",
+      "options": ["Aromatic waters","Gargles","Douches","Irrigation solutions"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-090",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This component makes collodion flexible",
+      "options": ["Pyroxylin","Camphor","Castor oil","B and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-091",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "These preparations were once called “embrocations”",
+      "options": ["Irrigation solutions","Liniments","Spirits","Elixirs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-092",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "An advantage of emulsions over other liquid forms: I. Poorly water soluble drugs may be incorporated II. The unpleasant odor or taste of oils can be masked III. Absorption may be enhanced",
+      "options": ["I and II","II and III","I and III","I, II, and III"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-093",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A soft, moist mass of meal, herbs, seed, etc., usually applied hot on a cloth that consists of a gruel-like consistency. They are also known as cataplasms.",
+      "options": ["Creams","Poultice","Plaster","Paste"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-094",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A semisolid dosage form that contains one or more drug substances intended for topical application. It generally contains a high concentration of solids (20-50%) and has a stiff consistency.",
+      "options": ["Creams","Poultice","Plaster","Paste"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-095",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following are reasons for enteric coating of tablets? I. To protect the drug in the dosage form from the effects of gastric acid II. To minimize the irritating effects of certain drugs on the gastric mucosa III. To deliver the drug to the intestine for local effects",
+      "options": ["I only","I and II","II and III","I, II, and III"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-096",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is the property where a single chemical substance may exist in more than one crystalline form",
+      "options": ["Polymorphism","Crystallization","Gel formation PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions","Epimerization"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-097",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "These are pharmaceutical equivalents that provide essentially the same therapeutic effect when administered to the same individuals in the same dosage regimens.",
+      "options": ["Bioequivalence","Therapeutic equivalents","Pharmaceutical alternatives","Therapeutic alternatives"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-098",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following is TRUE for both deliquescent and hygroscopic powders?",
+      "options": ["Both absorb moisture from the air","Both release moisture into the air","Both may liquefy when they absorb or release moisture","A and C"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-099",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following statements is true regarding capsule shells? I. Depending on their composition, gelatin capsule shells may be hard or soft II. The shell may be composed of two pieces, a body and a cap III. The capsule shell may be a single piece that is often referred to as a soft gelatin capsule",
+      "options": ["I and II","II and III","I and III","I, II, and III"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-100",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A hard gelatin capsule may be filled with all of the following, except:",
+      "options": ["Paste","Pellets","Capsule","Aqueous liquids"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-101",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "An example of an absorption ointment base",
+      "options": ["Petrolatum USP","Hydrophilic ointment USP","Lanolin USP","Polyethylene glycol"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-102",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Features desired in a suspension: I. Should settle quickly II. Should be readily redispersed upon gentle shaking III. Particle size should remain constant throughout long periods of undisturbed standing",
+      "options": ["I and II","I and III","II and III","I, II, and III"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-103",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Component/s of an aerosol formulation:",
+      "options": ["Product concentrate","Propellant","Emulsifying agent","A and B"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-104",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A parenteral route where the drug is injected into the spinal fluid",
+      "options": ["Intraarticular","Intrathecal","Intraspinal","Intrasynovial"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-105",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A parenteral route where the drug is injected into the joint fluid area",
+      "options": ["Intraarticular","Intrathecal","Intraspinal","Intrasynovial"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-106",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The components of Ringer’s Injection, USP I. Sodium chloride II. Potassium chloride III. Calcium chloride",
+      "options": ["I only","I and II","II and III","I, II, and III"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-107",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Component of Lactated Ringer’s Injection:",
+      "options": ["Lactic acid","Sodium lactate","Potassium lactate","Calcium lactate"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-108",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following statements regarding large volume parenterals is true? I. Used to replenish fluids or electrolytes II. Usually administered in volumes of 100 mL to 1L. or more per day by slow IV infusion III. Contain bacteriostatic agents",
+      "options": ["I and II","II and III","I and III","I, II, and III"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-109",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Examples of tablet glidants, except:",
+      "options": ["Colloidal silica","Talc","Titanium dioxide","Cornstarch"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-110",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Examples of tablet binders, except:",
+      "options": ["Acacia","Methylcellulose","CMC","Lactose"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-111",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This glass type is described as treated soda lime glass",
+      "options": ["Type I","Type II","Type III","Type IV"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-112",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "HLB value for w/o emulsifiers:",
+      "options": ["1-3","3-6","7-9","8-18"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-113",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Wecobee bases are triglycerides derived from:",
+      "options": ["Mineral oil","Coconut oil","Olive oil","Castor oil for is useful"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-114",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Method which the extemporaneous preparation of emulsions from volatile oils or oleaginous substances of low viscosities.",
+      "options": ["Dry gum method","Wet gum method","Forbes botte method","English method PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-115",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Continental method of emulsion preparation is also referred as:",
+      "options": ["Dry gum method","4:2:1 method","English method","A and B forming material used in"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-116",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Most common wall microencapsulation.",
+      "options": ["Lactose","Gelatin","Sorbitol","Dextrose Physical Pharmacy (25%)"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-117",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The attractive forces between polar molecules, that is, between molecules that possess dipole movement",
+      "options": ["Keesom forces","Dispersion forces","Van der Waals forces","Ion-Dipole forces"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-118",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The attractive interaction between a polar molecule and the induced dipole",
+      "options": ["Ion-induced dipole","Dipole-induced dipole","Induced dipole","Ion-dipole forces"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-119",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The pressure required to liquefy a gas at its critical temperature is termed as;",
+      "options": ["Standard pressure","Atmospheric pressure","Vapor pressure","Critical pressure"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-120",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Boyle’s law describes:",
+      "options": ["the relationship between temperature and volume for ideal gases","the relationship between pressure and temperature for ideal gas","the relationship between pressure and volume for ideal gases","the determinants of the universal gas constant"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-121",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The expression of the relation between the volume of gas and the absolute temperature is known as:",
+      "options": ["Boyle’s law","Gay-Lussac’s law","Charles’ law","Henry’s law"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-122",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "How many grams of NaCl is in 45 mL of an isotonic solution?",
+      "options": ["0.405","0.27","0.65","0.843"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-123",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following is a colligative property?",
+      "options": ["Osmotic pressure","Boiling point","Freezing point","Vapor pressure"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-124",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following pharmaceutical preparations is classified as Newtonian substance?",
+      "options": ["Solution","Ointment","Suspension","Emulsion"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-125",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The phenomenon in which a gel will flow over time when shaken, agitated, shear-stressed. A, Thixotrophy B. Dilatant C. Rheopexy D. Antithixotropy 126. When the stressed is removed, a _____ system returns to its original state of fluidity",
+      "options": ["Plastic","Dilatant","Pseudoplastic","Newtonian"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-126",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "When the stressed is removed, a _____ system returns to its original state of fluidity",
+      "options": ["Plastic","Dilatant","Pseudoplastic","Newtonian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-127",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Viscosity of a pseudoplastic substance decreases with increasing _____.",
+      "options": ["Shear stress","Temperature","Pressure","Rate of shear"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-128",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following statements is NOT correct?",
+      "options": ["Boiling point of water is 100⁰C","The vapor pressure of water at room temperature is 20mmHg","Vapor pressure and boiling point are directly proportional","None of the choices"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-129",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Iodine is an example of __ crystal system",
+      "options": ["Cubic","Rhombic","Monoclinic","Hexagonal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-130",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Iodoform is an example of __ crystal system",
+      "options": ["Cubic","Rhombic","Monoclinic","Hexagonal"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-131",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Reaction rates can be increased by:",
+      "options": ["Increasing temperature","Presence of solvents","Presence of catalyst","All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-132",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A property which describes the random movement of colloidal particles",
+      "options": ["Brownian movement","Viscosity","Electric properties","Light scattering"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-133",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The angle between a liquid droplet and the surface over which it spreads is known as:",
+      "options": ["Angle of repose","Contact angle","Spreading coefficient","Degree of freedom"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-134",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The resistance of fluid to flow is called:",
+      "options": ["Liquidity","Bulkiness PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions","Porosity","Viscosity"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-135",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The buffer equation is also known as:",
+      "options": ["Noyes-Whitney","Van’t Hoff","Henderson-Hasselbach","Arrhenius"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-136",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The number of gram equivalents of solute per liter of solution:",
+      "options": ["Normality","Molarity","Molality","None of the above"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-137",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The natural shrinking of a gel caused by coarsening of the matrix:",
+      "options": ["Syneresis","Bleeding","Swelling","Imbibition"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-138",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Unit used to express absolute viscosity",
+      "options": ["No unit","Poise","Stokes","Dynes/cm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-139",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "This is used to measure optical activity specifically the angle of rotation",
+      "options": ["Polarimeter","Refractometer","Viscometer","Hydrometer"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-140",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The frictional forces in a loose powder can be measured by the:",
+      "options": ["Angle of repose","Carr’s compressibility index","Hausner’s ratio","None of the above"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-141",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "It refers to the diameter of a spherical powder particle with the same density and settling velocity as the particle",
+      "options": ["Surface diameter","Volume diameter","Projected diameter","Stoke’s diameter"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-142",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "First-order half-life is equal to:",
+      "options": ["1/k","K","0.693/k","None of the above"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-143",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Parenteral solutions that are isotonic with human red blood cells have an osmolality of approximately how many mOsm/L?",
+      "options": ["50","100","150","300"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-144",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "An isotonic solution has the same _____ as blood.",
+      "options": ["Salt content","pH","Specific gravity","Osmotic pressure"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-145",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Mixing hypertonic solution with red blood cell will cause _______ of the red blood cells",
+      "options": ["Hemolysis","Chelating","Swelling","Crenation"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-146",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Sodium chloride equivalents are used to estimate the amount of sodium chloride needed to render a solution isotonic. The sodium chloride equivalent or “E” value may be defined as the:",
+      "options": ["Amount of sodium chloride that is theoretically equivalent to 1 gram of a specific chemical","Amount of a specific chemical theoretically equivalent to 1 gram of sodium chloride","Milliequivalents of sodium chloride needed to render a solution isotonic","Weight of a specified chemical that will make a solution isotonic"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-147",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A specific drug has first-order biological half-life of 4 hours. This half-life value will:",
+      "options": ["Be independent of the initial drug concentration","Increase when the concentration of the drug increases","Decrease when the concentration of the drug increases","Decrease if the patient has renal impairment"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-148",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A drug is said to have a biological half-life of 2 hours. At the end of eight hours, what percentage of the drug’s original activity will remain?",
+      "options": ["6.25%","12.5%","25%","50%"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-149",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The temperature at which a gas liquefies at the maximum vapor pressure the liquid form can achieve:",
+      "options": ["Absolute temperature","Critical temperature","Triple point","Critical point"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-150",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A species that can function either as an acid or a base:",
+      "options": ["Polyprotic","Amphoteric","Polymorphic","Zwitterions"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-151",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The following are Non-Newtonian classes of flow, except:",
+      "options": ["Plastic","Dilatant","Thixotropic","Parallel"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-152",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Which of the following intermolecular bond is involved in the attraction of electrons of nonpolar molecules resulting to transient polarity?",
+      "options": ["Dipole-dipole","Dipole-induced dipole","Ion-induced dipole","Ion-dipole"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-153",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "USP method of determining particle size distribution:",
+      "options": ["Optical microscopy","Sieving","Sedimentation method PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions","Particle volume measurement"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-154",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "A problem commonly encountered in emulsions wherein the dispersed phase floats:",
+      "options": ["Creaming","Aggregation","Coalescence","Inversion"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-155",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "___ are molecules whose mirror images are non-super imposable.",
+      "options": ["Enantiomer","Isomer","Diastereoisomer","Analogue"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-156",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "One gram of a salt dissolves in 20 ml of water. What is its solubility?",
+      "options": ["Very soluble","Freely soluble","Soluble","Sparingly soluble"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-157",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Sorensen’s buffer is composed of a ( basic ) solution of dibasic sodium phosphate with the formula",
+      "options": ["Na2HPO4","NaH2PO4","NaPO4","Na3PO interrelation among volume, pressure and"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-158",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The temperature is expressed by;",
+      "options": ["Boyle’s law","Charles’ law","Gay-Lussac’s law","Ideal Gas law"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-159",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "What pharmaceutical gas is used to sterilize or disinfect heat-labile objects?",
+      "options": ["Oxygen","Carbon dioxide","Nitrous oxide","Ethylene oxide"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-160",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The transformation of solid directly into vapor state without passing through the liquid state known as:",
+      "options": ["Vaporization","Evaporation","Condensation","Sublimation"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-161",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "Boric acid is an example of ______ crystal system.",
+      "options": ["Cubic","Hexagonal","Monoclinic","Triclinic"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-162",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "For salts of a weak base like codeine sulfate, as the pH increases, solubility:",
+      "options": ["Increases","Decreases","Remains constant","Not affected"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-163",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The vapor pressure of solvent over a dilute solution is equal to the vapor pressure of the pure solvent, multiplied by the mole fraction of solvent in solution. This is according to:",
+      "options": ["Raoult’s Law","Debye’s Law","Faraday Law","Henry’s Law"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-164",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "It is the pressure that must be applied to the solution to prevent the flow of pure solvent into the concentrated solution.",
+      "options": ["Vapor pressure","Partial pressure","Osmotic pressure","Atmospheric pressure"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-165",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "It is the number of moles of solute per kilogram of the solvent.",
+      "options": ["Normality","Molality","Molarity","Mole Fraction"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-166",
+      "module": "m5",
+      "subject": "dosage_forms",
+      "question": "The number of moles per liter of the solution is:",
+      "options": ["Normality","Molality","Molarity","Mole Fraction Jurisprudence and Ethics (17%) For nos. 167-171: A. RA 9502 B. RA 6675 C. RA 9711 D. RA 9994","RA 9165"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-167",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Comprehensive Dangerous Drugs Act 168. Cheaper and Quality Medicines Act 169. Generics Act 170. FDA Act 171. Expanded Senior Citizen’s Act 172. Policy-making and strategy-formulating body for drug prevention and control",
+      "options": ["Department of Health","Dangerous Drugs Board","Food and Drug Administration","Philippine Drug Enforcement Agency"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-173",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Which of the following are category A pharmaceutical establishments/outlets? I. II. III. Pharmaceutical establishments/outlets that sell prescription medicines Establishments involved in the manufacture, importation, exportation, distribution and sale of combination products (medical device and drugs) Retail outlets that sell over the counter drugs and household remedies Telepharmacy institutions IV.",
+      "options": ["I and II","III and IV","I, II and IV","All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-174",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Select the components of an erroneous prescription:",
+      "options": ["When the brand name and generic name are not legible PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions","When the generic name is enclosed within a parenthesis and the brand name is not","When the generic name is not legible and brand name is legible","When only the brand name is written in the prescription"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-175",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Which of the applicable variations fall under minor variation requiring prior approval?",
+      "options": ["Change of ownership","Additional activity","Deletion of activity","Change of business name"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-176",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "A senior citizen is required to present the following when buying a prescription drug, except:",
+      "options": ["Prescription","Purchase booklet","OSCA ID","Suki card"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-177",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "This list includes the prohibited and regulated drugs",
+      "options": ["Rx","List A","List B","OTC"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-178",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Which of the following is included in the list of drugs and medicines that are subject to price regulation according to RA 9502?",
+      "options": ["Intravenous fluids","Drugs for psoriasis","Vaccines","All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-179",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "This product will not require FDA batch certification before release to trade.",
+      "options": ["Tetracycline","Morphine","Penicillin","Erythromycin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-180",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "he Food, Drugs, Devices, and Cosmetics Act was amended by:",
+      "options": ["AO 64","AO 90","EO 174","EO 175"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-181",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Government office where you obtain a permit to open a drugstore.",
+      "options": ["Bureau of Domestic Trade","Securities and Exchange Commission","Professional Regulation Commission","Food and Drug Administration"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-182",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "This is the proprietary name given by the manufacturer to distinguish its product form those of competitors.",
+      "options": ["Chemical name","Generic name","Brand name","Company name"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-183",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "An act ensure the safety and purity of foods and cosmetics and purity , safety, efficacy, and quality of drugs and devices being made available to the public, vesting the BFAD with authority to administer and enforce the laws pertaining thereto, and for other purposes.",
+      "options": ["R.A 3720","R.A 6675","R.A 9502","R.A 9165"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-184",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "An act instituting “Comprehensive Dangerous Act of 2002”, repealing R.A. 6425, as amended, providing funds therefore and other purposes.",
+      "options": ["R.A 9165","R.A 8981","R.A 6675","R.A 10354"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-185",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "An act to promote, requires, and ensures production of an adequate supply, distribution, use, and acceptance of drugs and medicines identified by their generic names.",
+      "options": ["R.A 3720","R.A 9165","R.A 5921","R.A 6675"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-186",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "An act providing for cheaper and quality medicines, amending for purposes RA 8293 or the Intellectual Property code, RA 6675 or the Generic Act of 1988 and RA 5921 or the Pharmacy Law, and for other purposes.",
+      "options": ["R.A 9165","R.A 9257","R.A 7876","R.A 9502"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-187",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The responsible Parenthood and Reproductive Health Act of 2012",
+      "options": ["R.A 10645","R.A 10354","R.A 10640","R.A 10643"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-188",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The “Consumer Act of the Philippines” is known as:",
+      "options": ["R.A 7432","R.A 7581","R.A 8981","R.A 7394"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-189",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The “Price Act” is known as:",
+      "options": ["R.A 7581","R.A 7432","R.A 7394","R.A 8981"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-190",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Revised Rules and Regulations to implement prescribing requirements under the Generics act of 1988.",
+      "options": ["A.O. 63","A.O. 62","A.O. 56","A.O. 90"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-191",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The Professional Regulatory Board of Pharmacy is composed of a Chairman and members.",
+      "options": ["5","4","3","2"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-192",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "A completion of refresher course is required when the examinee has failed in the Pharmacist Licensure Examination.",
+      "options": ["One time","Two times","Three times PH-PHR 322: Competency Appraisal and Remediation Midyear 2023-2024 Pool of Questions","Four times"],
+      "answerIndex": 2
+    },
+    {
+      "id": "m5-193",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Who shall take charge and have custody of dangerous drugs confiscated or seized?",
+      "options": ["DDB","DOJ","FDA","PDEA"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-194",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Impossible prescription is:",
+      "options": ["With a phrase no substitution","When only the generic name is written but it is not legible","Where the generic name is the one in parenthesis","All of the above"],
+      "answerIndex": 1
+    },
+    {
+      "id": "m5-195",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "In applying LTO for drug store, the credentials of identified pharmacist-in-charge must be submitted. This includes:",
+      "options": ["Valid PRC ID","Certificate of attendance to appropriate FDA licensing seminar","Resignation letter of the Pharmacist from previous employer (if any)","All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-196",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Which of the following activities is/are exclusive to Pharmacists? I. Prepare, compound or manufacture, preserve, store, distribute, procure, sell, or dispense, or both, any pharmaceutical product or its raw materials II. Engage in teaching scientific, technical, or professional pharmacy courses in a school or college of pharmacy III. Administer adult vaccine as approved by the FDA subject to the training, certification and other requirements as provided in the IRR of R.A no. 10918",
+      "options": ["I only","I and II","I and III","I, II, and III"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-197",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The FDA shall be headed by a _______with the rank of _____.",
+      "options": ["Director General - Undersecretary","Director General - Secretary","Deputy Director - General","Director – Assistant Secretary"],
+      "answerIndex": 0
+    },
+    {
+      "id": "m5-198",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The integrated and accredited professional organization (APO) of pharmacists is:",
+      "options": ["PAPPI","DSAP","PACOP","PPhA"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-199",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "The following refer to counterfeit drug/medicines, except: Correct ingredients but not in the amounts stated I. II. Wrong ingredients III. Drug which contains less than 80% of the active ingredient it purports to possess",
+      "options": ["II only","II and III only","All of the above","None of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "m5-200",
+      "module": "m5",
+      "subject": "pharmacy_law",
+      "question": "Refer to persons who assist the pharmacists in the different aspects of pharmacy operation based on established standard operating procedures and processes, with very minimal degree of independence or decision making and without direct interaction with patients.",
+      "options": ["Pharmacy Aides","Pharmacy Assistants","Pharmacy Technicians","Pharmacist"],
+      "answerIndex": 0
+    }
+  ]
+

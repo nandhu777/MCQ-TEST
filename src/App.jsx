@@ -11,7 +11,6 @@ import TestPage from "./pages/Test";
 import ResultsPage from "./pages/Results";
 import { computeStats } from "./utils/Stats";
 import { sampleUnique } from "./utils/random";
-import { sampleWithoutReplacement } from "./utils/random";
 
 export default function App() {
   // simple router: home → modules → test(moduleId) → results
